@@ -1,6 +1,6 @@
 <!-- Encabezado con estilo -->
 
-<h1 align="center"> Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
+<h1 align="center"> <span style="color:#facc15;">Christian Oscar Papa</span></h1>
 
 <p align="center">
   <strong>Un apasionado desarrollador frontend</strong><br/>
@@ -56,8 +56,8 @@
 
 ## 😂 Un poco de Humor 😂
 
-// No es un bug, es una feature //
-// Ayer funcionaba //
-// ¡Pero si no toqué esa parte del código en semanas! //
-// ¿Qué estabas haciendo exactamente cuando el programa se colgó? //
-
+🟡 En mi computadora funciona perfectamente. Vení y lo ves funcionar si no me creés  .
+🟡 No es un bug, es una feature.
+🟡 Ayer funcionaba.  
+🟡 ¡Pero si no toqué esa parte del código en semanas!  
+🟡 ¿Qué estabas haciendo exactamente cuando el programa se colgó?
