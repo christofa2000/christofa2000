@@ -1,5 +1,10 @@
 <!-- Encabezado con estilo -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Christofa2000/Christofa2000/main/banner.png" alt="Christian Oscar Papa banner" />
+</p>
+
+
 <h1 align="center"> Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
 
 <p align="center">
