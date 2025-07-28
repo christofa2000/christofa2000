@@ -1,9 +1,5 @@
 <!-- Encabezado con estilo -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id" width="120" style="border-radius: 50%;" alt="Foto de Christian Oscar Papa"/>
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
 
 <p align="center">
@@ -63,7 +59,7 @@
   📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a> <br/>
   📱 +54 11 3346 1179 <br/>
 
-  💼 LinkedIn (www.linkedin.com/in/christian-oscar-b8362b36b)
+  💼 LinkedIn www.linkedin.com/in/christian-oscar-b8362b36b
 </p>
 
 ---
