@@ -1,10 +1,5 @@
 <!-- Encabezado con estilo -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Christofa2000/Christofa2000/main/banner.png" alt="Christian Oscar Papa banner" />
-</p>
-
-
 <h1 align="center"> Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
 
 <p align="center">
@@ -60,14 +55,4 @@
 ---
 
 ## 😂 Un poco de Humor 😂
-
-  En mi computadora funciona perfectamente. Vení y lo ves funcionar si no me creés//
-  No es un bug, es una feature//
-  Ayer funcionaba//
-  ¡Pero si no toqué esa parte del código en semanas!//
-  ¿Qué estabas haciendo exactamente cuando el programa se colgó?
- 
-
----
-
 
