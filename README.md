@@ -1,6 +1,6 @@
 <!-- Encabezado con estilo -->
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
+<h1 align="center"> Soy <span style="color:#facc15;">Christian Oscar Papa</span></h1>
 
 <p align="center">
   <strong>Un apasionado desarrollador frontend</strong><br/>
