@@ -59,7 +59,6 @@
 <p align="center">
   📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a> <br/>
   📱 +54 11 3346 1179 <br/>
-  🌐 Portfolio (próximamente) <br/>
   💼 <a href="https://www.linkedin.com/in/christian-oscar-b8362b36b" target="_blank">LinkedIn</a>
 </p>
 
