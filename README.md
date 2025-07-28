@@ -9,37 +9,37 @@
 
 ---
 
-## 🚀 Tecnologías que domino
+## 💻 Skills / Habilidades
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+### 🧠 Languages / Lenguajes
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
----
+### 🧩 Frameworks and Libraries / Frameworks y Librerías
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
+![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white)  
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?logo=chakraui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-## 🎯 Proyecto Destacado
-
-### 🎮 [pokemonapp](https://github.com/Christofa2000/pokemonapp)
-> Aplicación web con diseño moderno y funcionalidad de búsqueda de Pokémon, filtros por tipo, y música de fondo. ¡Hecha con pasión y Material UI!
-
----
-
-## 📊 Stats
-
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christofa2000&layout=compact&theme=tokyonight" height="160" />
-</p>
+### 🛠️ Software and Tools / Software y Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)  
+![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)  
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)  
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000)
 
 ---
 
@@ -60,4 +60,6 @@
 🟡 No es un bug, es una feature.  
 🟡 Ayer funcionaba.  
 🟡 ¡Pero si no toqué esa parte del código en semanas!
+
+
 
