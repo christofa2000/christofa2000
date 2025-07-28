@@ -37,7 +37,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christofa2000&show_icons=true&theme=tokyonight" height="160" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christofa2000&layout=compact&theme=tokyonight" height="160" />
 </p>
 
