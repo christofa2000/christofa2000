@@ -58,7 +58,8 @@
 <p align="center">
   📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a> <br/>
   📱 +54 11 3346 1179 <br/>
-
+</p>
+<p align="center">
   💼 LinkedIn www.linkedin.com/in/christian-oscar-b8362b36b
 </p>
 
@@ -74,8 +75,9 @@
   ✨ ¡Gracias por visitar mi perfil! ✨
 </p>
 
+<p align="center">
 > *“El código bien hecho no solo funciona, también se disfruta leerlo.”*
-
+</p>
 ---
 
-✨ ¡Gracias por visitar mi perfil! ✨
+
