@@ -56,3 +56,8 @@
 
 ## 😂 Un poco de Humor 😂
 
+// No es un bug, es una feature //
+// Ayer funcionaba //
+// ¡Pero si no toqué esa parte del código en semanas! //
+// ¿Qué estabas haciendo exactamente cuando el programa se colgó? //
+
