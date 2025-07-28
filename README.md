@@ -9,9 +9,7 @@
 
 ---
 
-<!-- Tecnologías principales -->
-
-<h2 align="center">🚀 Tecnologías que domino</h2>
+## 🚀 Tecnologías que domino
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
@@ -29,20 +27,14 @@
 
 ---
 
-<!-- Proyecto destacado -->
+## 🎯 Proyecto Destacado
 
-<h2 align="center">🎯 Proyecto Destacado</h2>
-
-<div align="center">
-  <h3>🎮 <a href="https://github.com/Christofa2000/pokemonapp">pokemonapp</a></h3>
-  <p>Aplicación web con diseño moderno y funcionalidad de búsqueda de Pokémon, filtros por tipo, y música de fondo. ¡Hecha con pasión y Material UI!</p>
-</div>
+### 🎮 [pokemonapp](https://github.com/Christofa2000/pokemonapp)
+> Aplicación web con diseño moderno y funcionalidad de búsqueda de Pokémon, filtros por tipo, y música de fondo. ¡Hecha con pasión y Material UI!
 
 ---
 
-<!-- Estadísticas de GitHub -->
-
-<h2 align="center">📊 Stats</h2>
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Christofa2000&show_icons=true&theme=tokyonight" height="160" />
@@ -51,33 +43,26 @@
 
 ---
 
-<!-- Contacto -->
-
-<h2 align="center">📬 Contacto</h2>
+## 📫 Contacto
 
 <p align="center">
   📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a> <br/>
   📱 +54 11 3346 1179 <br/>
-</p>
-<p align="center">
-  💼 LinkedIn www.linkedin.com/in/christian-oscar-b8362b36b
+  🌐 Portfolio (próximamente) <br/>
+  💼 <a href="https://www.linkedin.com/in/christian-oscar-b8362b36b" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-<h2 align="center">💡 Frase que me representa</h2>
+## 😂 Un poco de Humor 😂
 
-<blockquote align="center">“El código bien hecho no solo funciona, también se disfruta leerlo.”</blockquote>
+  En mi computadora funciona perfectamente. Vení y lo ves funcionar si no me creés//
+  No es un bug, es una feature//
+  Ayer funcionaba//
+  ¡Pero si no toqué esa parte del código en semanas!//
+  ¿Qué estabas haciendo exactamente cuando el programa se colgó?
+ 
 
----
-
-<p align="center">
-  ✨ ¡Gracias por visitar mi perfil! ✨
-</p>
-
-<p align="center">
-> *“El código bien hecho no solo funciona, también se disfruta leerlo.”*
-</p>
 ---
 
 
