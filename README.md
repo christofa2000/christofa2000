@@ -73,10 +73,6 @@
   <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
