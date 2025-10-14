@@ -1,5 +1,6 @@
 <!-- Encabezado con estilo -->
 <h1 align="center">✨ <span style="color:#a855f7;">Christian Oscar Papa</span> ✨</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=600&color=A855F7&center=true&vCenter=true&width=520&lines=Frontend+Developer+(React+%2B+TypeScript);Experiencias+escalables+con+Next.js;UX%2C+Performance+y+Calidad+de+C%C3%B3digo" alt="Typing SVG" />
 </p>
@@ -11,26 +12,47 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- GIF a la derecha (imagen con movimiento) -->
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
+<!-- 👨‍💻 Sobre mí bilingüe -->
 ## 👨‍💻 Sobre mí / About Me
-- 🎯 Aprendizaje constante y evolución tecnológica  
-- 🚀 Desafíos que expanden límites, con orientación a resultados  
-- 🔧 Autodidacta, curioso y enfocado en mejora continua  
-- 💡 I enjoy building high-impact web apps with clean, scalable architectures
 
-<br clear="right"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top" align="left">
+
+
+
+🎯 Aprendizaje constante y evolución tecnológica. <br/>
+🚀 Desafíos que expanden mis límites, con orientación a resultados. <br/>
+🔧 Autodidacta, curioso y enfocado en la mejora continua. <br/>
+💡 Disfruto creando aplicaciones web de alto impacto con arquitecturas limpias y escalables.  
+<br/>
+
+
+
+🎯 Constant learning and technological evolution. <br/>
+🚀 Challenges that expand my boundaries with a results-driven mindset. <br/>
+🔧 Self-taught, curious, and focused on continuous improvement. <br/>
+💡 I enjoy building high-impact web applications with clean and scalable architectures.
+
+</td>
+
+<td width="40%" align="center">
+  <img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 💻 Tech Stack / Tecnologías
 <div align="center">
-  <!-- Bloque compacto con tus principales tecnologías -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,zustand,reactquery,prisma,postgres,nodejs,cloudflare,vercel,git,github,figma,vitest,jest" />
 </div>
 
-<!-- Badges complementarios -->
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white" />
@@ -55,12 +77,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-  <!-- Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=christofa2000&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=christofa2000&theme=tokyonight&hide_border=true" alt="streak" />
-
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christofa2000&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
 </div>
 
@@ -70,6 +88,8 @@
 - 🔹 Frontend con **React + TypeScript + Next.js**  
 - 🔹 Experiencia en **JWT**, **React Query**, **Zustand**, **Supabase RLS**, **Playwright/Jest/RTL**  
 - 🔹 Apasionado por **UX**, **performance** y **código limpio**
+
+---
 
 ## 📫 Contacto
 <p align="center">
