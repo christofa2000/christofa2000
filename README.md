@@ -75,12 +75,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=christofa2000&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=christofa2000&theme=tokyonight&hide_border=true" alt="streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christofa2000&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
-</div>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
