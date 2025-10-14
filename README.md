@@ -1,89 +1,81 @@
 <!-- Encabezado con estilo -->
-<h1 align="center">✨ <span style="color:#facc15;">Christian Oscar Papa</span> ✨</h1>
+<h1 align="center">✨ <span style="color:#a855f7;">Christian Oscar Papa</span> ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=600&color=A855F7&center=true&vCenter=true&width=520&lines=Frontend+Developer+(React+%2B+TypeScript);Experiencias+escalables+con+Next.js;UX%2C+Performance+y+Calidad+de+C%C3%B3digo" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Desarrollador Frontend especializado en React + TypeScript</strong><br/>
-  Transformo ideas en experiencias digitales escalables, manteniendo un enfoque en la optimización, el diseño y la calidad del código.
+  Transformo ideas en experiencias digitales escalables, con foco en optimización, diseño y calidad del código.
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- GIF a la derecha (imagen con movimiento) -->
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 Sobre mí / About Me
+- 🎯 Aprendizaje constante y evolución tecnológica  
+- 🚀 Desafíos que expanden límites, con orientación a resultados  
+- 🔧 Autodidacta, curioso y enfocado en mejora continua  
+- 💡 I enjoy building high-impact web apps with clean, scalable architectures
 
-🎯 Me motiva el aprendizaje constante y la evolución tecnológica.  
-🚀 Disfruto enfrentar desafíos que expanden mis límites y conocimientos.  
-🔧 Soy autodidacta, curioso y orientado a la mejora continua.  
+<br clear="right"/>
 
-💡 I'm driven by curiosity and the pursuit of technical excellence.  
-I enjoy working on high-impact web applications with clean, scalable, and maintainable codebases.
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 💻 Tech Stack / Tecnologías
+<div align="center">
+  <!-- Bloque compacto con tus principales tecnologías -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,zustand,reactquery,prisma,postgres,nodejs,cloudflare,vercel,git,github,figma,vitest,jest" />
+</div>
 
-### 🧠 Lenguajes
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
----
-
-### ⚛️ Frameworks y Librerías
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-3068B7?logo=zod&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
-
----
-
-### 🧰 Herramientas y Ecosistema
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
-
----
-
-### 🧪 Testing y Calidad
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-RTL-E33332?logo=testinglibrary&logoColor=white)
-
----
-
-## 🌎 En resumen
-🔹 Frontend Developer con enfoque en **React + TypeScript + Next.js**  
-🔹 Experiencia en **autenticación JWT**, **React Query**, **Zustand**, **RLS con Supabase**, y **testing profesional**  
-🔹 Apasionado por la **UX**, la **performance** y el **código limpio**
-
----
-
-## 📫 Contacto
-
+<!-- Badges complementarios -->
 <p align="center">
-  📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a><br/>
-  💼 <a href="https://www.linkedin.com/in/christian-oscar-b8362b36b" target="_blank">LinkedIn</a><br/>
-  📱 +54 11 3346 1179
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-State%20Mgmt-000000" />
+  <img src="https://img.shields.io/badge/React%20Query-Data%20Sync-FF4154" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">“El verdadero desarrollo comienza cuando la técnica y la sensibilidad se encuentran.”</h3>
-<h3 align="center">💫 “El código cambia, pero la pasión por aprender permanece.”</h3>
+## 🧪 Testing y Calidad
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTL-E33332?logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-E2E-2D6AE3" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Stats
+<div align="center">
+  
+  <!-- Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=christofa2000&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=christofa2000&theme=tokyonight&hide_border=true" alt="streak" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christofa2000&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌎 En resumen
+- 🔹 Frontend con **React + TypeScript + Next.js**  
+- 🔹 Experiencia en **JWT**, **React Query**, **Zustand**, **Supabase RLS**, **Playwright/Jest/RTL**  
+- 🔹 Apasionado por **UX**, **performance** y **código limpio**
+
+## 📫 Contacto
+<p align="center">
+  📧 <a href="mailto:Christofa2000@gmail.com">Christofa2000@gmail.com</a> · 
+  💼 <a href="https://www.linkedin.com/in/christian-oscar-b8362b36b" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center"><em>“El verdadero desarrollo comienza cuando la técnica y la sensibilidad se encuentran.”</em><br/>
+💫 “El código cambia, pero la pasión por aprender permanece.”</p>
